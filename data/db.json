@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Hello ",
+      "body": "Good morning guyss",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Summer Holidays",
+      "body": "Extremely ashtonishing 3 months of relaxment.",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
